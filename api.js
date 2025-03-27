@@ -11,7 +11,7 @@ const authorizedUsers = [
   {
     "id": "5746031448", // Contoh ID terenkripsi
     "name": "aldys",
-    "access": "client",
+    "access": "ADMIN",
     "expiry": "2025-04-21"
   },
   {
